@@ -1,0 +1,302 @@
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 19.0, 'gamma': 0.7479394653312861, 'eval_metric': 'auc', 'colsample_bylevel': 0.0202539169557312, 'min_child_weight': 12.0, 'lambda': 2.8901295504688047, 'n_estimators': 100000, 'colsample_bytree': 0.6228432269818601, 'seed': 5, 'alpha': 0.021289224210542246, 'nthread': 20, 'silent': 1, 'subsample': 0.8076170248688277, 'eta': 0.3}
+	Auc_val: 0.681608
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 5.0, 'gamma': 0.2797941521034192, 'eval_metric': 'auc', 'colsample_bylevel': 0.4499563504517967, 'min_child_weight': 2.0, 'lambda': 4.879487552925173, 'n_estimators': 100000, 'colsample_bytree': 0.38080363201414, 'seed': 5, 'alpha': 2.0726173302524895, 'nthread': 20, 'silent': 1, 'subsample': 0.5800578941159139, 'eta': 0.3}
+	Auc_val: 0.681197
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 5.0, 'gamma': 0.40339845594292, 'eval_metric': 'auc', 'colsample_bylevel': 0.4937280145471947, 'min_child_weight': 7.0, 'lambda': 4.627647408230388, 'n_estimators': 100000, 'colsample_bytree': 0.1819216618760081, 'seed': 5, 'alpha': 1.7945457788784451, 'nthread': 20, 'silent': 1, 'subsample': 0.08692806682520549, 'eta': 0.3}
+	Auc_val: 0.67638
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 25.0, 'gamma': 0.975369302205605, 'eval_metric': 'auc', 'colsample_bylevel': 0.7431744971683824, 'min_child_weight': 3.0, 'lambda': 0.743547305697207, 'n_estimators': 100000, 'colsample_bytree': 0.5375202678709191, 'seed': 5, 'alpha': 1.6047475688498825, 'nthread': 20, 'silent': 1, 'subsample': 0.39430742775968985, 'eta': 0.3}
+	Auc_val: 0.661641
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.522219543221605, 'eval_metric': 'auc', 'colsample_bylevel': 0.6763241473871462, 'min_child_weight': 12.0, 'lambda': 0.01815975181289453, 'n_estimators': 100000, 'colsample_bytree': 0.20299425272276894, 'seed': 5, 'alpha': 3.655992350802909, 'nthread': 20, 'silent': 1, 'subsample': 0.8445585707085328, 'eta': 0.3}
+	Auc_val: 0.660752
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 3.0, 'gamma': 0.18388597761334957, 'eval_metric': 'auc', 'colsample_bylevel': 0.9510599026837747, 'min_child_weight': 11.0, 'lambda': 2.0601530904986127, 'n_estimators': 100000, 'colsample_bytree': 0.1934570874696636, 'seed': 5, 'alpha': 1.7956951774442191, 'nthread': 20, 'silent': 1, 'subsample': 0.3435734988484974, 'eta': 0.3}
+	Auc_val: 0.662556
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 5.0, 'gamma': 0.013080116236061201, 'eval_metric': 'auc', 'colsample_bylevel': 0.5603320503430047, 'min_child_weight': 3.0, 'lambda': 0.5179086099276203, 'n_estimators': 100000, 'colsample_bytree': 0.10368447593003716, 'seed': 5, 'alpha': 0.1969227540308366, 'nthread': 20, 'silent': 1, 'subsample': 0.4905250855824279, 'eta': 0.3}
+	Auc_val: 0.666704
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 24.0, 'gamma': 0.8393669700914744, 'eval_metric': 'auc', 'colsample_bylevel': 0.8347344562589681, 'min_child_weight': 11.0, 'lambda': 3.8545589156851987, 'n_estimators': 100000, 'colsample_bytree': 0.39910948714708416, 'seed': 5, 'alpha': 1.9387723800884338, 'nthread': 20, 'silent': 1, 'subsample': 0.3849903360081349, 'eta': 0.3}
+	Auc_val: 0.666606
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 16.0, 'gamma': 0.2286887690388404, 'eval_metric': 'auc', 'colsample_bylevel': 0.9940696692625497, 'min_child_weight': 9.0, 'lambda': 0.6235685653286632, 'n_estimators': 100000, 'colsample_bytree': 0.335055903551259, 'seed': 5, 'alpha': 2.2899455296751965, 'nthread': 20, 'silent': 1, 'subsample': 0.15668274490503675, 'eta': 0.3}
+	Auc_val: 0.672287
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 17.0, 'gamma': 0.48255329663469637, 'eval_metric': 'auc', 'colsample_bylevel': 0.3170690780007207, 'min_child_weight': 10.0, 'lambda': 2.3409006743742706, 'n_estimators': 100000, 'colsample_bytree': 0.28087977534805175, 'seed': 5, 'alpha': 0.9279201084350214, 'nthread': 20, 'silent': 1, 'subsample': 0.5461640368909293, 'eta': 0.3}
+	Auc_val: 0.666238
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 17.0, 'gamma': 0.0031634960439547166, 'eval_metric': 'auc', 'colsample_bylevel': 0.8572941027045198, 'min_child_weight': 10.0, 'lambda': 2.729953502681397, 'n_estimators': 100000, 'colsample_bytree': 0.8524405477517829, 'seed': 5, 'alpha': 3.333691556198616, 'nthread': 20, 'silent': 1, 'subsample': 0.3993174835558415, 'eta': 0.3}
+	Auc_val: 0.669881
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 2.0, 'gamma': 0.6163922060060051, 'eval_metric': 'auc', 'colsample_bylevel': 0.6164282361089928, 'min_child_weight': 4.0, 'lambda': 4.680367481117669, 'n_estimators': 100000, 'colsample_bytree': 0.977354433134644, 'seed': 5, 'alpha': 0.5834637502647744, 'nthread': 20, 'silent': 1, 'subsample': 0.662801321332915, 'eta': 0.3}
+	Auc_val: 0.663156
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.8262139974369034, 'eval_metric': 'auc', 'colsample_bylevel': 0.16910847107106042, 'min_child_weight': 11.0, 'lambda': 3.695411368027606, 'n_estimators': 100000, 'colsample_bytree': 0.44617226704012625, 'seed': 5, 'alpha': 3.8208504172220943, 'nthread': 20, 'silent': 1, 'subsample': 0.4090296257291024, 'eta': 0.3}
+	Auc_val: 0.679894
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 21.0, 'gamma': 0.18300114082229246, 'eval_metric': 'auc', 'colsample_bylevel': 0.21661428919016124, 'min_child_weight': 3.0, 'lambda': 3.7678817481259235, 'n_estimators': 100000, 'colsample_bytree': 0.885703815752683, 'seed': 5, 'alpha': 1.4121037436740924, 'nthread': 20, 'silent': 1, 'subsample': 0.7872683802506528, 'eta': 0.3}
+	Auc_val: 0.662532
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 23.0, 'gamma': 0.12153864133763792, 'eval_metric': 'auc', 'colsample_bylevel': 0.39949095264351575, 'min_child_weight': 2.0, 'lambda': 3.128043534095333, 'n_estimators': 100000, 'colsample_bytree': 0.06755421147420937, 'seed': 5, 'alpha': 3.5722131637622856, 'nthread': 20, 'silent': 1, 'subsample': 0.7086480532477885, 'eta': 0.3}
+	Auc_val: 0.680371
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.33557571056282565, 'eval_metric': 'auc', 'colsample_bylevel': 0.18615950180546093, 'min_child_weight': 10.0, 'lambda': 2.223157296495526, 'n_estimators': 100000, 'colsample_bytree': 0.7847893714262052, 'seed': 5, 'alpha': 0.19804459253213225, 'nthread': 20, 'silent': 1, 'subsample': 0.7202310336967549, 'eta': 0.3}
+	Auc_val: 0.681635
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 22.0, 'gamma': 0.4949142934299561, 'eval_metric': 'auc', 'colsample_bylevel': 0.03384699597881757, 'min_child_weight': 12.0, 'lambda': 0.8915648528595305, 'n_estimators': 100000, 'colsample_bytree': 0.5944543823130181, 'seed': 5, 'alpha': 4.845417697681617, 'nthread': 20, 'silent': 1, 'subsample': 0.2670797338363824, 'eta': 0.3}
+	Auc_val: 0.681783
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 4.0, 'gamma': 0.39730369672103905, 'eval_metric': 'auc', 'colsample_bylevel': 0.5689057328349972, 'min_child_weight': 8.0, 'lambda': 1.2134944595845487, 'n_estimators': 100000, 'colsample_bytree': 0.8246037978905061, 'seed': 5, 'alpha': 0.8860240749309195, 'nthread': 20, 'silent': 1, 'subsample': 0.7166003483142973, 'eta': 0.3}
+	Auc_val: 0.681655
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 16.0, 'gamma': 0.5987702405315788, 'eval_metric': 'auc', 'colsample_bylevel': 0.29485752863232095, 'min_child_weight': 11.0, 'lambda': 2.864138351640771, 'n_estimators': 100000, 'colsample_bytree': 0.4217563225205112, 'seed': 5, 'alpha': 1.8142311916751752, 'nthread': 20, 'silent': 1, 'subsample': 0.015642595304758977, 'eta': 0.3}
+	Auc_val: 0.673527
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 24.0, 'gamma': 0.4332315348343855, 'eval_metric': 'auc', 'colsample_bylevel': 0.6960208959408116, 'min_child_weight': 10.0, 'lambda': 1.720777656685775, 'n_estimators': 100000, 'colsample_bytree': 0.4882545699189246, 'seed': 5, 'alpha': 3.380811333778163, 'nthread': 20, 'silent': 1, 'subsample': 0.6682786499341414, 'eta': 0.3}
+	Auc_val: 0.656692
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.6374387968103467, 'eval_metric': 'auc', 'colsample_bylevel': 0.037628874213515996, 'min_child_weight': 7.0, 'lambda': 1.2501439645716532, 'n_estimators': 100000, 'colsample_bytree': 0.697575422601058, 'seed': 5, 'alpha': 4.6762339993183675, 'nthread': 20, 'silent': 1, 'subsample': 0.997664650707434, 'eta': 0.3}
+	Auc_val: 0.678083
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.533129953367028, 'eval_metric': 'auc', 'colsample_bylevel': 0.5800930321947604, 'min_child_weight': 5.0, 'lambda': 1.3010252867600192, 'n_estimators': 100000, 'colsample_bytree': 0.9911806088092218, 'seed': 5, 'alpha': 4.999048099532616, 'nthread': 20, 'silent': 1, 'subsample': 0.20808960267844365, 'eta': 0.3}
+	Auc_val: 0.681776
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.7008138701603579, 'eval_metric': 'auc', 'colsample_bylevel': 0.1033755606765298, 'min_child_weight': 5.0, 'lambda': 0.2089504027518625, 'n_estimators': 100000, 'colsample_bytree': 0.9359249530217991, 'seed': 5, 'alpha': 4.971794520170169, 'nthread': 20, 'silent': 1, 'subsample': 0.21448337383177107, 'eta': 0.3}
+	Auc_val: 0.675975
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 8.0, 'gamma': 0.5027089488578528, 'eval_metric': 'auc', 'colsample_bylevel': 0.3508211472633329, 'min_child_weight': 6.0, 'lambda': 1.4099427077842404, 'n_estimators': 100000, 'colsample_bytree': 0.7175793453388366, 'seed': 5, 'alpha': 4.536912707498186, 'nthread': 20, 'silent': 1, 'subsample': 0.2420065034592521, 'eta': 0.3}
+	Auc_val: 0.683235
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.32235984180097244, 'eval_metric': 'auc', 'colsample_bylevel': 0.35428622455136205, 'min_child_weight': 6.0, 'lambda': 1.7606378685146278, 'n_estimators': 100000, 'colsample_bytree': 0.609629337584335, 'seed': 5, 'alpha': 4.257718675719036, 'nthread': 20, 'silent': 1, 'subsample': 0.2890791172316251, 'eta': 0.3}
+	Auc_val: 0.684385
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.093910527097737, 'eval_metric': 'auc', 'colsample_bylevel': 0.3658642722374303, 'min_child_weight': 6.0, 'lambda': 1.7443302470138176, 'n_estimators': 100000, 'colsample_bytree': 0.6959976593296554, 'seed': 5, 'alpha': 4.482152150492771, 'nthread': 20, 'silent': 1, 'subsample': 0.10401885591284615, 'eta': 0.3}
+	Auc_val: 0.669246
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 8.0, 'gamma': 0.3346533005188819, 'eval_metric': 'auc', 'colsample_bylevel': 0.28554365405524046, 'min_child_weight': 6.0, 'lambda': 1.8466473553788105, 'n_estimators': 100000, 'colsample_bytree': 0.7323790446769628, 'seed': 5, 'alpha': 2.7913903551357264, 'nthread': 20, 'silent': 1, 'subsample': 0.017405254275834836, 'eta': 0.3}
+	Auc_val: 0.678612
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 7.0, 'gamma': 0.3472340188659373, 'eval_metric': 'auc', 'colsample_bylevel': 0.42427058510478227, 'min_child_weight': 8.0, 'lambda': 1.4477336578702267, 'n_estimators': 100000, 'colsample_bytree': 0.6161169414753583, 'seed': 5, 'alpha': 4.1957149475401065, 'nthread': 20, 'silent': 1, 'subsample': 0.30126441424623934, 'eta': 0.3}
+	Auc_val: 0.67728
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.759393924007406, 'eval_metric': 'auc', 'colsample_bylevel': 0.24529725009012615, 'min_child_weight': 5.0, 'lambda': 3.128721418286725, 'n_estimators': 100000, 'colsample_bytree': 0.655220090938257, 'seed': 5, 'alpha': 2.871300710063145, 'nthread': 20, 'silent': 1, 'subsample': 0.45766071288623744, 'eta': 0.3}
+	Auc_val: 0.678331
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 19.0, 'gamma': 0.2695688428780507, 'eval_metric': 'auc', 'colsample_bylevel': 0.11359821519215596, 'min_child_weight': 8.0, 'lambda': 0.9854046563254335, 'n_estimators': 100000, 'colsample_bytree': 0.5246902139664076, 'seed': 5, 'alpha': 4.190986316740708, 'nthread': 20, 'silent': 1, 'subsample': 0.26894794927049814, 'eta': 0.3}
+	Auc_val: 0.674323
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 6.0, 'gamma': 0.9854278681039608, 'eval_metric': 'auc', 'colsample_bylevel': 0.47746495655010446, 'min_child_weight': 1.0, 'lambda': 2.6088308016271684, 'n_estimators': 100000, 'colsample_bytree': 0.7498643151425125, 'seed': 5, 'alpha': 4.124423826501375, 'nthread': 20, 'silent': 1, 'subsample': 0.07972459188381215, 'eta': 0.3}
+	Auc_val: 0.682816
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.42815430414853706, 'eval_metric': 'auc', 'colsample_bylevel': 0.3798183835543199, 'min_child_weight': 4.0, 'lambda': 1.5436393181329904, 'n_estimators': 100000, 'colsample_bytree': 0.5833886565067721, 'seed': 5, 'alpha': 3.105356723076564, 'nthread': 20, 'silent': 1, 'subsample': 0.5784680482487767, 'eta': 0.3}
+	Auc_val: 0.671391
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.07657286554238699, 'eval_metric': 'auc', 'colsample_bylevel': 0.5032616206228617, 'min_child_weight': 7.0, 'lambda': 0.2433768481106977, 'n_estimators': 100000, 'colsample_bytree': 0.9198320674120495, 'seed': 5, 'alpha': 4.500125829510791, 'nthread': 20, 'silent': 1, 'subsample': 0.16122187179425745, 'eta': 0.3}
+	Auc_val: 0.67225
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 8.0, 'gamma': 0.5635012559397481, 'eval_metric': 'auc', 'colsample_bylevel': 0.1378287082098993, 'min_child_weight': 6.0, 'lambda': 1.9723869867537447, 'n_estimators': 100000, 'colsample_bytree': 0.7985885915544146, 'seed': 5, 'alpha': 2.5676558121743938, 'nthread': 20, 'silent': 1, 'subsample': 0.22129121866600068, 'eta': 0.3}
+	Auc_val: 0.682606
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 14.0, 'gamma': 0.2667688013168804, 'eval_metric': 'auc', 'colsample_bylevel': 0.5065375725481736, 'min_child_weight': 4.0, 'lambda': 2.4241077720171624, 'n_estimators': 100000, 'colsample_bytree': 0.31684598754630583, 'seed': 5, 'alpha': 3.9129293704594232, 'nthread': 20, 'silent': 1, 'subsample': 0.34099006227676887, 'eta': 0.3}
+	Auc_val: 0.677502
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 7.0, 'gamma': 0.6874047334094302, 'eval_metric': 'auc', 'colsample_bylevel': 0.3395819486151181, 'min_child_weight': 7.0, 'lambda': 3.3746254347349485, 'n_estimators': 100000, 'colsample_bytree': 0.6559830695705062, 'seed': 5, 'alpha': 4.502059833442036, 'nthread': 20, 'silent': 1, 'subsample': 0.4556627353260518, 'eta': 0.3}
+	Auc_val: 0.681827
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 3.0, 'gamma': 0.8588249365210503, 'eval_metric': 'auc', 'colsample_bylevel': 0.2483726596363283, 'min_child_weight': 9.0, 'lambda': 4.242522168664237, 'n_estimators': 100000, 'colsample_bytree': 0.4796210785371888, 'seed': 5, 'alpha': 3.9343555989685166, 'nthread': 20, 'silent': 1, 'subsample': 0.9888346461099393, 'eta': 0.3}
+	Auc_val: 0.661667
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 12.0, 'gamma': 0.1904427989593841, 'eval_metric': 'auc', 'colsample_bylevel': 0.7765939199319528, 'min_child_weight': 2.0, 'lambda': 2.1287044916403572, 'n_estimators': 100000, 'colsample_bytree': 0.5652131943470049, 'seed': 5, 'alpha': 3.117011559524157, 'nthread': 20, 'silent': 1, 'subsample': 0.08155895361988144, 'eta': 0.3}
+	Auc_val: 0.672825
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 19.0, 'gamma': 0.453400009726469, 'eval_metric': 'auc', 'colsample_bylevel': 0.6032687515807975, 'min_child_weight': 5.0, 'lambda': 1.0003324030741516, 'n_estimators': 100000, 'colsample_bytree': 0.3776695502371916, 'seed': 5, 'alpha': 2.2284075312878637, 'nthread': 20, 'silent': 1, 'subsample': 0.5128955370878094, 'eta': 0.3}
+	Auc_val: 0.664107
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 6.0, 'gamma': 0.3848629965562784, 'eval_metric': 'auc', 'colsample_bylevel': 0.44308186861416526, 'min_child_weight': 9.0, 'lambda': 0.7804895703020198, 'n_estimators': 100000, 'colsample_bytree': 0.0005740319383776837, 'seed': 5, 'alpha': 4.706550532202021, 'nthread': 20, 'silent': 1, 'subsample': 0.13177710270036874, 'eta': 0.3}
+	Auc_val: 0.502657
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 4.0, 'gamma': 0.7727558807182828, 'eval_metric': 'auc', 'colsample_bylevel': 0.6408496273214408, 'min_child_weight': 6.0, 'lambda': 0.4639657722860089, 'n_estimators': 100000, 'colsample_bytree': 0.24006480758282023, 'seed': 5, 'alpha': 3.61618539587457, 'nthread': 20, 'silent': 1, 'subsample': 0.34279377373324826, 'eta': 0.3}
+	Auc_val: 0.679199
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.5606999906147591, 'eval_metric': 'auc', 'colsample_bylevel': 0.5401855147482842, 'min_child_weight': 3.0, 'lambda': 1.527985299512388, 'n_estimators': 100000, 'colsample_bytree': 0.5372523275155203, 'seed': 5, 'alpha': 1.4931859363619653, 'nthread': 20, 'silent': 1, 'subsample': 0.29203843734318696, 'eta': 0.3}
+	Auc_val: 0.670673
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.29567945988766486, 'eval_metric': 'auc', 'colsample_bylevel': 0.08994765425124418, 'min_child_weight': 1.0, 'lambda': 0.14071005395988068, 'n_estimators': 100000, 'colsample_bytree': 0.8763224987441106, 'seed': 5, 'alpha': 4.288916787480623, 'nthread': 20, 'silent': 1, 'subsample': 0.6079182533557989, 'eta': 0.3}
+	Auc_val: 0.681071
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 17.0, 'gamma': 0.053422673608072235, 'eval_metric': 'auc', 'colsample_bylevel': 0.6896791208679018, 'min_child_weight': 4.0, 'lambda': 4.1068605013981365, 'n_estimators': 100000, 'colsample_bytree': 0.6472219023858674, 'seed': 5, 'alpha': 2.6085236096685365, 'nthread': 20, 'silent': 1, 'subsample': 0.8915218560652157, 'eta': 0.3}
+	Auc_val: 0.670821
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.8787891347033312, 'eval_metric': 'auc', 'colsample_bylevel': 0.0016911962409844605, 'min_child_weight': 8.0, 'lambda': 2.5790063763793207, 'n_estimators': 100000, 'colsample_bytree': 0.1435154971960786, 'seed': 5, 'alpha': 3.289585990000969, 'nthread': 20, 'silent': 1, 'subsample': 0.44015292000375095, 'eta': 0.3}
+	Auc_val: 0.532557
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 18.0, 'gamma': 0.20757370233051936, 'eval_metric': 'auc', 'colsample_bylevel': 0.8761838667032136, 'min_child_weight': 5.0, 'lambda': 4.954860538738384, 'n_estimators': 100000, 'colsample_bytree': 0.7374773835211123, 'seed': 5, 'alpha': 3.818965767949709, 'nthread': 20, 'silent': 1, 'subsample': 0.051358325043904085, 'eta': 0.3}
+	Auc_val: 0.660848
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.4812897676896036, 'eval_metric': 'auc', 'colsample_bylevel': 0.34085153777257365, 'min_child_weight': 2.0, 'lambda': 2.293938285617119, 'n_estimators': 100000, 'colsample_bytree': 0.3697557275471205, 'seed': 5, 'alpha': 4.778537425160365, 'nthread': 20, 'silent': 1, 'subsample': 0.5124404036121479, 'eta': 0.3}
+	Auc_val: 0.672818
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.1612693700878241, 'eval_metric': 'auc', 'colsample_bylevel': 0.18621315041184158, 'min_child_weight': 7.0, 'lambda': 0.4427576502762358, 'n_estimators': 100000, 'colsample_bytree': 0.8331581677992548, 'seed': 5, 'alpha': 1.1862200203561453, 'nthread': 20, 'silent': 1, 'subsample': 0.36813069434346735, 'eta': 0.3}
+	Auc_val: 0.685317
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 20.0, 'gamma': 0.16509594197470287, 'eval_metric': 'auc', 'colsample_bylevel': 0.19709935783347776, 'min_child_weight': 9.0, 'lambda': 0.4209178184630682, 'n_estimators': 100000, 'colsample_bytree': 0.8326926327597145, 'seed': 5, 'alpha': 1.130470165781568, 'nthread': 20, 'silent': 1, 'subsample': 0.37128760228241087, 'eta': 0.3}
+	Auc_val: 0.664838
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 10.0, 'gamma': 0.14288327484155833, 'eval_metric': 'auc', 'colsample_bylevel': 0.15093169821124403, 'min_child_weight': 7.0, 'lambda': 0.7097660207249903, 'n_estimators': 100000, 'colsample_bytree': 0.935386607334574, 'seed': 5, 'alpha': 0.43455292707172566, 'nthread': 20, 'silent': 1, 'subsample': 0.1688747643071273, 'eta': 0.3}
+	Auc_val: 0.682802
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 2.0, 'gamma': 0.0099339959602745, 'eval_metric': 'auc', 'colsample_bylevel': 0.05509070512336778, 'min_child_weight': 8.0, 'lambda': 0.010233662765394058, 'n_estimators': 100000, 'colsample_bytree': 0.44170346418449813, 'seed': 5, 'alpha': 1.2375622622778364, 'nthread': 20, 'silent': 1, 'subsample': 0.8028318637626302, 'eta': 0.3}
+	Auc_val: 0.666732
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 16.0, 'gamma': 0.2381183588412492, 'eval_metric': 'auc', 'colsample_bylevel': 0.27306874136989606, 'min_child_weight': 12.0, 'lambda': 1.0887045177794898, 'n_estimators': 100000, 'colsample_bytree': 0.7849871021809753, 'seed': 5, 'alpha': 2.0778732884996725, 'nthread': 20, 'silent': 1, 'subsample': 0.595092778648776, 'eta': 0.3}
+	Auc_val: 0.67361
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.038587401190034704, 'eval_metric': 'auc', 'colsample_bylevel': 0.40883831209377614, 'min_child_weight': 7.0, 'lambda': 3.480389590147552, 'n_estimators': 100000, 'colsample_bytree': 0.26928766415604755, 'seed': 5, 'alpha': 0.7707414382224765, 'nthread': 20, 'silent': 1, 'subsample': 0.5447189256867526, 'eta': 0.3}
+	Auc_val: 0.690334
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 6.0, 'gamma': 0.060239501927280864, 'eval_metric': 'auc', 'colsample_bylevel': 0.232495152679276, 'min_child_weight': 10.0, 'lambda': 4.678820800497351, 'n_estimators': 100000, 'colsample_bytree': 0.21374052009902533, 'seed': 5, 'alpha': 0.7393582497509035, 'nthread': 20, 'silent': 1, 'subsample': 0.7627043925708654, 'eta': 0.3}
+	Auc_val: 0.676517
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 9.0, 'gamma': 0.11415535917208157, 'eval_metric': 'auc', 'colsample_bylevel': 0.41626536265751507, 'min_child_weight': 9.0, 'lambda': 4.319259924775077, 'n_estimators': 100000, 'colsample_bytree': 0.05219881763293327, 'seed': 5, 'alpha': 0.08850621035117612, 'nthread': 20, 'silent': 1, 'subsample': 0.8785498237583119, 'eta': 0.3}
+	Auc_val: 0.674959
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 5.0, 'gamma': 0.028951353490228537, 'eval_metric': 'auc', 'colsample_bylevel': 0.7643199198999009, 'min_child_weight': 7.0, 'lambda': 3.5167271671481344, 'n_estimators': 100000, 'colsample_bytree': 0.26366274486201435, 'seed': 5, 'alpha': 0.5611668237442673, 'nthread': 20, 'silent': 1, 'subsample': 0.640208925081475, 'eta': 0.3}
+	Auc_val: 0.677351
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 11.0, 'gamma': 0.14942596547923043, 'eval_metric': 'auc', 'colsample_bylevel': 0.47340536460183746, 'min_child_weight': 8.0, 'lambda': 3.140759614065827, 'n_estimators': 100000, 'colsample_bytree': 0.1285970615915232, 'seed': 5, 'alpha': 1.6091587176351725, 'nthread': 20, 'silent': 1, 'subsample': 0.5393245838440203, 'eta': 0.3}
+	Auc_val: 0.67729
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 13.0, 'gamma': 0.22252436588747695, 'eval_metric': 'auc', 'colsample_bylevel': 0.06425241246034316, 'min_child_weight': 11.0, 'lambda': 2.7832001437134632, 'n_estimators': 100000, 'colsample_bytree': 0.3185974475088036, 'seed': 5, 'alpha': 0.28359426967131407, 'nthread': 20, 'silent': 1, 'subsample': 0.5526623837001106, 'eta': 0.3}
+	Auc_val: 0.674904
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 3.0, 'gamma': 0.0013200768062572865, 'eval_metric': 'auc', 'colsample_bylevel': 0.5379761445106723, 'min_child_weight': 7.0, 'lambda': 3.9372910274663067, 'n_estimators': 100000, 'colsample_bytree': 0.17912553723589764, 'seed': 5, 'alpha': 1.0210151098251503, 'nthread': 20, 'silent': 1, 'subsample': 0.6688686971380762, 'eta': 0.3}
+	Auc_val: 0.65456
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 7.0, 'gamma': 0.10080738634107958, 'eval_metric': 'auc', 'colsample_bylevel': 0.30410351606063496, 'min_child_weight': 4.0, 'lambda': 3.362116901673904, 'n_estimators': 100000, 'colsample_bytree': 0.07127437753473292, 'seed': 5, 'alpha': 1.2774787467794777, 'nthread': 20, 'silent': 1, 'subsample': 0.9604596562898637, 'eta': 0.3}
+	Auc_val: 0.669832
+
+
+Training with params : 
+{'objective': 'binary:logistic', 'max_depth': 15.0, 'gamma': 0.37447774456055904, 'eval_metric': 'auc', 'colsample_bylevel': 0.6427707265584284, 'min_child_weight': 10.0, 'lambda': 4.500720827307358, 'n_estimators': 100000, 'colsample_bytree': 0.3499858710130145, 'seed': 5, 'alpha': 0.006280748630181687, 'nthread': 20, 'silent': 1, 'subsample': 0.4357177380224561, 'eta': 0.3}
